@@ -1,6 +1,6 @@
 # Album-Review-Ratings
 In this project I used a compilation of Album Reviews Ratings made by Kauvin Lucas at Kaggle to do an Exploratory Data Analysis and answer some questions about the data.
-The Metal Edition is a second exploratory data analysis on the same compilation but only with Heavy Metal artits.
+The Metal Edition is a second exploratory data analysis on the same compilation but only with Heavy Metal artists.
 
 The questions were:
 
